@@ -1,0 +1,5 @@
+uint16 address
+uint8 count
+uint8 slave
+---
+bool[] bits

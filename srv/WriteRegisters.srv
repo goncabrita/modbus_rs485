@@ -1,0 +1,4 @@
+uint16 address
+uint16[] registers
+uint8 slave
+---
